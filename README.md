@@ -25,12 +25,11 @@ Feel free to submit a PR for new apps / versions.
 | Panera Bread                   | com.panera.bread                      | https://play.google.com/store/apps/details?id=com.panera.bread                       |    4.87.3    |    3.2.4    |  2024-07-14  |
 | adidas                         | com.adidas.app                        | https://play.google.com/store/apps/details?id=com.adidas.app                         |    5.37.1    |    3.3.9    |  2024-07-14  |
 | Groupon – Deals & Coupons      | com.groupon                           | https://play.google.com/store/apps/details?id=com.groupon                            |  24.8.465427 |    3.3.9    |  2024-07-14  |
-| United Airlines                | com.united.mobile.android             | https://play.google.com/store/apps/details?id=com.united.mobile.android              |    4.2.9     |    3.3.9    |  2024-07-14  |
+| United Airlines                | com.united.mobile.android             | https://play.google.com/store/apps/details?id=com.united.mobile.android              |    4.2.38    |    3.3.9    |  2025-06-06  |
 | Farfetch                       | com.farfetch.farfetchshop             | https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop              |    5.53.0    |    3.1.0    |  2024-07-14  |
 | El Corte Inglés                | com.elcorteingles.app                 | https://play.google.com/store/apps/details?id=com.elcorteingles.app                  |    4.11.1    |    4.0.1    |  2024-07-14  |
 | GameStop                       | com.gamestop.powerup                  | https://play.google.com/store/apps/details?id=com.gamestop.powerup                   |    500.14.0  |    3.3.1    |  2024-07-14  |
 | JD Sports: Shoes & sneakers    | com.jd.jdsportsusa                    | https://play.google.com/store/apps/details?id=com.jd.jdsportsusa                     |    2.7.3     |    3.3.3    |  2023-05-20  |
-| Doters                         | io.lji.viva                           | https://play.google.com/store/apps/details?id=io.lji.viva                            |    1.1.6     |    3.3.4    |  2024-07-14  |
 | AE + Aerie                     | com.aeo.mena                          | https://play.google.com/store/apps/details?id=com.aeo.mena                           |    2.2.0     |    3.3.4    |  2024-07-14  |
 | JCPenney – Shopping & Deals    | com.jcp                               | https://play.google.com/store/apps/details?id=com.jcp                                |    11.25.1   |    3.3.5    |  2024-07-14  |
 | BBVA ES                        | com.bbva.bbvacontigo                  | https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo                   |    14.0.33   |    3.4.0    |  2025-06-06  |
