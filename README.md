@@ -33,9 +33,10 @@ Feel free to submit a PR for new apps / versions.
 | Doters                         | io.lji.viva                           | https://play.google.com/store/apps/details?id=io.lji.viva                            |    1.1.6     |    3.3.4    |  2024-07-14  |
 | AE + Aerie                     | com.aeo.mena                          | https://play.google.com/store/apps/details?id=com.aeo.mena                           |    2.2.0     |    3.3.4    |  2024-07-14  |
 | JCPenney – Shopping & Deals    | com.jcp                               | https://play.google.com/store/apps/details?id=com.jcp                                |    11.25.1   |    3.3.5    |  2024-07-14  |
-| BBVA                           | com.bbva.bbvacontigo                  | https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo                   |    13.6.19   |    3.3.9    |  2024-07-14  |
+| BBVA                           | com.bbva.bbvacontigo                  | https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo                   |    14.0.33   |    3.4.0    |  2025-06-06  |
 | Hilton Honors: Book Hotels     | com.hilton.android.hhonors            | https://play.google.com/store/apps/details?id=com.hilton.android.hhonors             |    2024.7.2  |    3.3.9    |  2024-07-14  |
 | StubHub - Live Event Tickets   | com.stubhub                           | https://play.google.com/store/apps/details?id=com.stubhub                            |    101.16.12 |    3.4.0    |  2024-07-14  |
-| MR PORTER: Shop men’s          | com.mrp                               | https://play.google.com/store/apps/details?id=com.mrp                                |    2024.04.4 |    3.4.0    |  2024-09-16  |
-| Iberia                         | com.iberia.android                    | https://play.google.com/store/apps/details?id=com.iberia.android                     |    14.50.0   |    4.1.0    |  2025-01-19  |
-| viagogo                        | com.viagogo.consumer.viagogo          | https://play.google.com/store/apps/details?id=com.viagogo.consumer.viagogo.playstore |    101.24.4  |    3.4.0    |  2025-01-19  |
+| MR PORTER: Shop men’s          | com.mrp                               | https://play.google.com/store/apps/details?id=com.mrp                                |    2025.05   |    4.0.4    |  2025-06-06  |
+| Iberia                         | com.iberia.android                    | https://play.google.com/store/apps/details?id=com.iberia.android                     |    14.61.0   |    4.1.3    |  2025-06-06  |
+| viagogo                        | com.viagogo.consumer.viagogo          | https://play.google.com/store/apps/details?id=com.viagogo.consumer.viagogo.playstore |    101.34.14 |    4.1.4    |  2025-06-06  |
+| Hulu JP                        | jp.happyon.android                    | https://play.google.com/store/apps/details?id=jp.happyon.android                     |    3.30.0    |    3.3.9    |  2025-06-06  |
