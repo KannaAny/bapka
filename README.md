@@ -40,3 +40,4 @@ Feel free to submit a PR for new apps / versions.
 | viagogo                        | com.viagogo.consumer.viagogo          | https://play.google.com/store/apps/details?id=com.viagogo.consumer.viagogo.playstore |    101.34.14 |    4.1.4    |  2025-06-06  |
 | Hulu JP                        | jp.happyon.android                    | https://play.google.com/store/apps/details?id=jp.happyon.android                     |    3.30.0    |    3.3.9    |  2025-06-06  |
 | BBVA CO                        | co.com.bbva.mb                        | https://play.google.com/store/apps/details?id=co.com.bbva.mb                         |    25.40.16  |    4.0.1    |  2025-06-06  |
+| Kleinanzeigen - without eBay   | com.ebay.kleinanzeigen                | https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen                 |    100.49.0  |    3.3.9    |  2025-06-11  |
